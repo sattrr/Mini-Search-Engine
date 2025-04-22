@@ -17,7 +17,7 @@ from pathlib import Path
 
 BASE_DIR = Path(__file__).resolve().parent.parent.parent
 DATA_DIR = BASE_DIR / "data" / "raw"
-OUTPUT_JSON_PATH = DATA_DIR / "scraped_corpus.json"
+OUTPUT_JSON_PATH = DATA_DIR / "scraped_documents.json"
 
 logger = logging.getLogger(__name__)
 logger.setLevel(logging.INFO)
