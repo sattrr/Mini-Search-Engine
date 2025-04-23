@@ -63,12 +63,7 @@ def scrape_articles(driver, links):
             else:
                 isi_abstrak = "Header Abstrak tidak ditemukan"
 
-            title = soup.find("h1")
-            title_text = title.get_text(strip=True) if title else "Tidak ditemukan"
-
             article = {
-                "url": url,
-                "judul": title_text,
                 "isi": isi_abstrak
             }
             articles_data.append(article)
@@ -80,11 +75,11 @@ def scrape_articles(driver, links):
 
 def main():
     links = [
-        "https://jtiik.ub.ac.id/index.php/jtiik/article/view/5162",
-        "https://jtiik.ub.ac.id/index.php/jtiik/article/view/6823",
-        "https://jtiik.ub.ac.id/index.php/jtiik/article/view/6301",
-        "https://jtiik.ub.ac.id/index.php/jtiik/article/view/3729",
-        "https://jtiik.ub.ac.id/index.php/jtiik/article/view/6727",
+        "https://jtiik.ub.ac.id/index.php/jtiik/article/view/4400",
+        "https://jtiik.ub.ac.id/index.php/jtiik/article/view/5663",
+        "https://jtiik.ub.ac.id/index.php/jtiik/article/view/4985",
+        "https://jtiik.ub.ac.id/index.php/jtiik/article/view/6742",
+        "https://jtiik.ub.ac.id/index.php/jtiik/article/view/3399",
     ]
 
     DATA_DIR.mkdir(parents=True, exist_ok=True)

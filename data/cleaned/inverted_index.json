@@ -1,991 +1,353 @@
 {
-  "sakit": [
-    0
+  "covid-19": [
+    0,
+    1,
+    2,
+    3,
+    4
   ],
   "coronavirus": [
     0
   ],
-  "covid": [
+  "disease": [
     0
   ],
+  "2019": [
+    0,
+    1,
+    2,
+    4
+  ],
   "rupa": [
+    0,
+    4
+  ],
+  "buah": [
+    0
+  ],
+  "sakit": [
+    0
+  ],
+  "virus": [
     0,
     3,
     4
   ],
-  "infeksi": [
-    0
+  "tular": [
+    0,
+    4
   ],
-  "virus": [
-    0
-  ],
-  "sars": [
-    0
-  ],
-  "cov": [
-    0
-  ],
-  "pengaruh": [
-    0
+  "salur": [
+    0,
+    4
   ],
   "napas": [
     0
   ],
-  "tubuh": [
+  "hewan": [
     0
   ],
   "manusia": [
     0
   ],
-  "tular": [
+  "ribu": [
     0
   ],
-  "kasus": [
+  "orang": [
+    0,
+    2,
+    4
+  ],
+  "tinggal": [
     0
+  ],
+  "seluruh": [
+    0,
+    1,
+    2
+  ],
+  "dunia": [
+    0,
+    1,
+    2
+  ],
+  "nyata": [
+    0
+  ],
+  "pandemi": [
+    0,
+    1,
+    2,
+    4
+  ],
+  "negara": [
+    0,
+    4
+  ],
+  "masuk": [
+    0,
+    4
   ],
   "indonesia": [
     0,
-    1,
     4
   ],
-  "makin": [
+  "kasus": [
     0,
-    2
-  ],
-  "tingkat": [
-    0
-  ],
-  "butuh": [
-    0,
-    2,
     3
   ],
-  "perhati": [
+  "pertama": [
+    0,
+    1
+  ],
+  "kali": [
+    0,
+    1
+  ],
+  "temu": [
     0
   ],
-  "khusus": [
+  "tanggal": [
     0
   ],
-  "konfirmasi": [
+  "maret": [
     0
   ],
-  "gejala": [
+  "2020": [
+    0,
+    3
+  ],
+  "tangan": [
     0
   ],
-  "ringan": [
+  "perintah": [
+    0
+  ],
+  "terap": [
+    0
+  ],
+  "social": [
+    0
+  ],
+  "distancing": [
+    0
+  ],
+  "jaga": [
+    0
+  ],
+  "jarak": [
+    0
+  ],
+  "jauh": [
+    0
+  ],
+  "meter": [
+    0
+  ],
+  "protokol": [
+    0
+  ],
+  "sehat": [
+    0,
+    1
+  ],
+  "atur": [
+    0
+  ],
+  "laku": [
+    0
+  ],
+  "aktivitas": [
     0
   ],
   "rumah": [
     0
   ],
-  "telepon": [
+  "sesuai": [
     0
   ],
-  "timbul": [
-    0,
-    2
-  ],
-  "baru": [
+  "anjur": [
     0
   ],
-  "jumlah": [
+  "world": [
     0
   ],
-  "batas": [
+  "health": [
     0
   ],
-  "tulis": [
+  "organization": [
     0
   ],
-  "buat": [
+  "who": [
     0
   ],
-  "buah": [
-    0,
-    1,
-    2
-  ],
-  "jurnal": [
-    0
-  ],
-  "hari": [
-    0,
-    2
-  ],
-  "pisom": [
-    0
-  ],
-  "adapun": [
-    0
-  ],
-  "tuju": [
-    0,
-    3
-  ],
-  "bantu": [
-    0,
+  "muncul": [
     1
   ],
-  "harap": [
-    0
-  ],
-  "bahan": [
-    0
-  ],
-  "lebih": [
-    0,
+  "kota": [
     1
   ],
-  "lanjut": [
-    0,
-    2
-  ],
-  "pihak": [
-    0,
-    3
-  ],
-  "kait": [
-    0
-  ],
-  "bas": [
-    0,
-    3,
-    4
-  ],
-  "operasi": [
-    0
-  ],
-  "danwebpada": [
-    0
-  ],
-  "akses": [
-    0
-  ],
-  "mana": [
-    0,
-    2,
-    3
-  ],
-  "kapan": [
-    0
-  ],
-  "jalan": [
-    0
-  ],
-  "mantu": [
-    0
-  ],
-  "verbal": [
+  "wuhan": [
     1
   ],
-  "sulit": [
+  "cina": [
     1
   ],
-  "alami": [
-    1
-  ],
-  "ganggu": [
-    1
-  ],
-  "tuli": [
-    1
-  ],
-  "bisu": [
-    1
-  ],
-  "salah": [
-    1,
-    2,
-    4
-  ],
-  "satu": [
-    1,
-    2,
-    4
-  ],
-  "kenal": [
-    1
-  ],
-  "kompleks": [
-    1
-  ],
-  "pecah": [
-    1
-  ],
-  "sintaks": [
-    1
-  ],
-  "tata": [
-    1
-  ],
-  "sendiri": [
-    1
-  ],
-  "computer": [
-    1
-  ],
-  "vision": [
-    1
-  ],
-  "teknik": [
-    1
-  ],
-  "komputer": [
-    1
-  ],
-  "citra": [
-    1
-  ],
-  "otomatis": [
-    1
-  ],
-  "normal": [
-    1
-  ],
-  "banding": [
-    1
-  ],
-  "algoritma": [
-    1,
-    2
-  ],
-  "klasifikasimachine": [
-    1
-  ],
-  "learningdandeep": [
-    1
-  ],
-  "learninguntuk": [
-    1
-  ],
-  "penting": [
-    1
-  ],
-  "lihat": [
-    1
-  ],
-  "efektifitas": [
-    1
-  ],
-  "performa": [
-    1
-  ],
-  "komputasi": [
-    1
-  ],
-  "learningmemiliki": [
-    1
-  ],
-  "rendah": [
-    1,
-    2
-  ],
-  "sedangkandeep": [
-    1
-  ],
-  "tinggi": [
-    1,
-    2
-  ],
-  "menganalisistime": [
-    1
-  ],
-  "to": [
+  "desember": [
     1,
     4
-  ],
-  "performancedari": [
-    1
-  ],
-  "algoritmamachine": [
-    1,
-    2
-  ],
-  "learningdalam": [
-    1
-  ],
-  "huruf": [
-    1
-  ],
-  "a": [
-    1
-  ],
-  "hingga": [
-    1
-  ],
-  "z": [
-    1
-  ],
-  "k": [
-    1
-  ],
-  "nearest": [
-    1
-  ],
-  "neighbors": [
-    1
-  ],
-  "knn": [
-    1,
-    2
-  ],
-  "support": [
-    1
-  ],
-  "vector": [
-    1
-  ],
-  "machine": [
-    1
-  ],
-  "svm": [
-    1
-  ],
-  "danconvolutional": [
-    1
-  ],
-  "neural": [
-    1
-  ],
-  "network": [
-    1
-  ],
-  "cnn": [
-    1
-  ],
-  "dengantransfer": [
-    1
-  ],
-  "learningadalah": [
-    1
-  ],
-  "tiga": [
-    1
-  ],
-  "algorimta": [
-    1
-  ],
-  "populer": [
-    1
-  ],
-  "arsitekturtransfer": [
-    1
-  ],
-  "learningyang": [
-    1
-  ],
-  "xception": [
-    1
-  ],
-  "validation": [
-    1
-  ],
-  "arsitektur": [
-    1
-  ],
-  "scoretertinggi": [
-    1
-  ],
-  "waktutrainingrata": [
-    1
-  ],
-  "rata": [
-    1
-  ],
-  "detik": [
-    1
-  ],
-  "sedang": [
-    1,
-    4
-  ],
-  "nilai": [
-    1,
-    4
-  ],
-  "waktutrainingtercepat": [
-    1
-  ],
-  "tantang": [
-    2
-  ],
-  "institusi": [
-    2
-  ],
-  "uang": [
-    2
-  ],
-  "manajemen": [
-    2
-  ],
-  "risiko": [
-    2
-  ],
-  "didik": [
-    2
-  ],
-  "swasta": [
-    2
-  ],
-  "kelola": [
-    2
-  ],
-  "sumber": [
-    2
-  ],
-  "dana": [
-    2
-  ],
-  "mayoritas": [
-    2
-  ],
-  "asal": [
-    2
-  ],
-  "mahasiswa": [
-    2
-  ],
-  "jamin": [
-    2
-  ],
-  "finansial": [
-    2
-  ],
-  "monitoringcashflow": [
-    2
-  ],
-  "tunda": [
-    2
-  ],
-  "biaya": [
-    2
-  ],
-  "kuliah": [
-    2
-  ],
-  "mempengaruhicashflowinstitusi": [
-    2
-  ],
-  "analisis": [
-    2
-  ],
-  "bagai": [
-    2,
-    3
-  ],
-  "tindak": [
-    2
-  ],
-  "preventif": [
-    2
-  ],
-  "cegah": [
-    2
-  ],
-  "minimal": [
-    2
   ],
   "kemudian": [
-    2
-  ],
-  "learningdigunakan": [
-    2
-  ],
-  "guru": [
-    2
-  ],
-  "dataset": [
-    2
-  ],
-  "riwayat": [
-    2
-  ],
-  "tagih": [
-    2
-  ],
-  "transaksi": [
-    2
-  ],
-  "aju": [
-    2
-  ],
-  "angsur": [
-    2
-  ],
-  "ancang": [
-    2
-  ],
-  "diri": [
-    2,
-    3
-  ],
-  "daripreprocessing": [
-    2
-  ],
-  "pilih": [
-    2
-  ],
-  "fitur": [
-    2,
-    3
-  ],
-  "model": [
-    2
-  ],
-  "uji": [
-    2,
-    3,
+    1,
     4
   ],
-  "evaluasi": [
+  "sebar": [
+    1,
     2,
     4
   ],
-  "dasar": [
-    2,
-    3
-  ],
-  "kerja": [
+  "cepat": [
+    1,
     2
-  ],
-  "baik": [
-    2
-  ],
-  "denganrecalluntuk": [
-    2
-  ],
-  "prediksi": [
-    2
-  ],
-  "gagal": [
-    2
-  ],
-  "besar": [
-    2,
-    3
-  ],
-  "modelmachine": [
-    2
-  ],
-  "learningini": [
-    2
-  ],
-  "tanam": [
-    2
-  ],
-  "informasi": [
-    2,
-    4
-  ],
-  "beri": [
-    2
-  ],
-  "skor": [
-    2
-  ],
-  "metodescorecard": [
-    2
-  ],
-  "kecil": [
-    2
-  ],
-  "kisar": [
-    2
-  ],
-  "potensi": [
-    2
-  ],
-  "piutang": [
-    2
-  ],
-  "macet": [
-    2
-  ],
-  "rekomendasi": [
-    2
-  ],
-  "tilik": [
-    2
-  ],
-  "ulang": [
-    2
-  ],
-  "skema": [
-    2
-  ],
-  "tetap": [
-    2
-  ],
-  "dancash": [
-    2
-  ],
-  "collection": [
-    2
-  ],
-  "ratiotetap": [
-    2
-  ],
-  "olahraga": [
-    3
-  ],
-  "efektif": [
-    3
-  ],
-  "bakar": [
-    3
-  ],
-  "kalori": [
-    3
-  ],
-  "punya": [
-    3
   ],
   "dampak": [
-    3
+    1
   ],
-  "negatif": [
-    3
+  "cukup": [
+    1
   ],
-  "picu": [
-    3
+  "fatal": [
+    1
+  ],
+  "masyarakat": [
+    1
   ],
   "serang": [
+    2
+  ],
+  "masyarakatt": [
+    2
+  ],
+  "akhir": [
+    2
+  ],
+  "tahun": [
+    2,
     3
   ],
-  "jantung": [
+  "percik": [
+    2
+  ],
+  "hidung": [
+    2
+  ],
+  "mulut": [
+    2
+  ],
+  "keluar": [
+    2
+  ],
+  "infeksi": [
+    2,
+    4
+  ],
+  "batuk": [
+    2
+  ],
+  "bersin": [
+    2
+  ],
+  "bicara": [
+    2
+  ],
+  "selalu": [
+    2
+  ],
+  "waspada": [
+    2
+  ],
+  "hindar": [
+    2
+  ],
+  "wabah": [
     3
   ],
-  "alat": [
+  "sejak": [
     3
   ],
-  "deteksi": [
+  "awal": [
     3
   ],
-  "frekuensi": [
+  "meski": [
     3
   ],
-  "nadi": [
+  "turun": [
     3
   ],
-  "rancang": [
+  "jumlah": [
     3
   ],
-  "monitoring": [
+  "derita": [
     3
   ],
-  "real": [
+  "beberapa": [
     3
   ],
-  "time": [
+  "baru": [
     3
   ],
-  "easily": [
+  "mutasi": [
     3
   ],
-  "plugin": [
+  "prevalensi": [
     3
   ],
-  "pulse": [
+  "pneumonia": [
     3
   ],
-  "sensor": [
+  "tinggi": [
     3
   ],
-  "photoplethysmographic": [
-    3
+  "bulan": [
+    4
+  ],
+  "timbul": [
+    4
+  ],
+  "masalah": [
+    4
+  ],
+  "serius": [
+    4
+  ],
+  "vaksin": [
+    4
+  ],
+  "cegah": [
+    4
+  ],
+  "uji": [
+    4
+  ],
+  "spesimen": [
+    4
+  ],
+  "nafas": [
+    4
   ],
   "atas": [
-    3
-  ],
-  "transmitter": [
-    3
-  ],
-  "receiver": [
-    3
-  ],
-  "infrared": [
-    3
-  ],
-  "pasang": [
-    3
-  ],
-  "ujung": [
-    3
-  ],
-  "jari": [
-    3
-  ],
-  "tengah": [
-    3
-  ],
-  "jaring": [
-    3
-  ],
-  "kulit": [
-    3
-  ],
-  "volume": [
-    3
-  ],
-  "darah": [
-    3
-  ],
-  "buzzer": [
-    3
-  ],
-  "alarm": [
-    3
-  ],
-  "capai": [
-    3
-  ],
-  "beat": [
-    3
-  ],
-  "per": [
-    3
-  ],
-  "mute": [
-    3
-  ],
-  "bpm": [
-    3
-  ],
-  "lengkap": [
-    3
-  ],
-  "memonitoring": [
-    3
-  ],
-  "bluetooth": [
-    3
-  ],
-  "hc": [
-    3
-  ],
-  "modul": [
-    3
-  ],
-  "arduino": [
-    3
-  ],
-  "error": [
-    3
-  ],
-  "maksimum": [
-    3
-  ],
-  "coba": [
-    3
-  ],
-  "partisipan": [
-    3
-  ],
-  "logger": [
-    3
-  ],
-  "rekap": [
-    3
-  ],
-  "medis": [
-    3
-  ],
-  "smartphone": [
-    3
-  ],
-  "objek": [
     4
   ],
-  "budaya": [
+  "bawah": [
     4
   ],
-  "golong": [
-    4
-  ],
-  "belati": [
-    4
-  ],
-  "senjata": [
-    4
-  ],
-  "mata": [
-    4
-  ],
-  "bilah": [
-    4
-  ],
-  "lurus": [
-    4
-  ],
-  "luk": [
-    4
-  ],
-  "deskripsi": [
-    4
-  ],
-  "liput": [
-    4
-  ],
-  "warangka": [
-    4
-  ],
-  "jejer": [
-    4
-  ],
-  "mendhak": [
-    4
-  ],
-  "pendhok": [
-    4
-  ],
-  "ganja": [
-    4
-  ],
-  "pesi": [
-    4
-  ],
-  "dhapur": [
-    4
-  ],
-  "tangguh": [
-    4
-  ],
-  "pamor": [
-    4
-  ],
-  "fungsi": [
-    4
-  ],
-  "tradisi": [
-    4
-  ],
-  "luas": [
-    4
-  ],
-  "tuntut": [
-    4
-  ],
-  "sedia": [
-    4
-  ],
-  "suatu": [
-    4
-  ],
-  "infrastruktur": [
-    4
-  ],
-  "dukung": [
-    4
-  ],
-  "representasi": [
-    4
-  ],
-  "tahu": [
-    4
-  ],
-  "dekat": [
-    4
-  ],
-  "kerangka": [
-    4
-  ],
-  "semantic": [
-    4
-  ],
-  "web": [
-    4
-  ],
-  "bentuk": [
-    4
-  ],
-  "ontologi": [
+  "salah": [
     4
   ],
   "metode": [
     4
   ],
-  "adalahon": [
-    4
-  ],
-  "knowledge": [
-    4
-  ],
-  "adalahfeasibility": [
-    4
-  ],
-  "kick": [
-    4
-  ],
-  "off": [
-    4
-  ],
-  "refinement": [
-    4
-  ],
-  "evolusi": [
-    4
-  ],
-  "bangun": [
-    4
-  ],
-  "empat": [
-    4
-  ],
-  "lima": [
-    4
-  ],
-  "feasibilityadalah": [
-    4
-  ],
-  "layak": [
-    4
-  ],
-  "offadalah": [
-    4
-  ],
-  "mula": [
-    4
-  ],
-  "refinementadalah": [
-    4
-  ],
-  "graf": [
-    4
-  ],
-  "sempurna": [
-    4
-  ],
-  "prot": [
-    4
-  ],
-  "g": [
-    4
-  ],
-  "logika": [
-    4
-  ],
-  "menggunakanreasoner": [
-    4
-  ],
-  "hermitdan": [
-    4
-  ],
-  "dlquerypada": [
-    4
-  ],
-  "lapor": [
-    4
-  ],
-  "implementasi": [
-    4
-  ],
-  "metodeon": [
-    4
-  ],
-  "akhir": [
-    4
-  ],
-  "owl": [
+  "efektif": [
     4
   ]
 }
